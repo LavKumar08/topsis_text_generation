@@ -46,7 +46,7 @@ The highest-ranked model is **BLOOM**, making it the best choice based on our ev
 1. Install dependencies:
    ```bash
    pip install numpy pandas matplotlib seaborn
-2. Open the Jupyter Notebook and run ```bash Topsis_Text_Generation.ipynb step by step.
+2. Open the Jupyter Notebook and "run `bash Topsis_Text_Generation.ipynb`" step by step.
 ## Visualization
 A bar plot of model rankings is generated as topsis_ranking.png:
 ![TOPSIS Ranking](topsis_ranking.png)
